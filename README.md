@@ -2,7 +2,7 @@
 
 Links lighting to the Workspace visibility hierarchy, like other items behave making 'hiding' a light disable it.
 
-Requires: HSExtSave, Harmony (1.0.9.1+) and ModSettings Menu.
+Requires: HSExtSave, Harmony (1.0.9.1+) [included just in case] and ModSettings Menu.
 
 Press Alt+L (default) to bring up the interface. Enable/disable the link as desired.
 
